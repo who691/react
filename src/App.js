@@ -12,7 +12,7 @@ const abela =()=>{
   setCount(count+1);
 }
 
-
+console.log('as');
 
 return(
 <div>
